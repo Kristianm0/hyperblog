@@ -3,14 +3,4 @@ El campo de gravedad, de un cuerpo con masa, va en todas las direcciones, por lo
 El campo de gravedad, de un cuerpo con masa, va en todas las direcciones, por lo tanto tiene una forma esférica. Esto, hace que todo lo que esté sobre el cuerpo sea halado hacia el centro del mismo.
 _______________ the results, we have to prioritize the testing phase of this new program before it launches. William, please make sure this is completed.
 
-a
-Given that
-
-b
-As long as
-
-c
-Rather than
-
-d
-Regardless of
+nuevoo
