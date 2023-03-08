@@ -1,45 +1,55 @@
 body {
     color: #450000;
     text-align: center;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'VT323', serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
-}
-
-#cabecera {
-    background: #2D2D2D;
+    background: #F7DFB9; /* fondo con textura retro */
+  }
+  
+  #cabecera {
+    background: #1A1A1A; /* tono oscuro */
     color: #FFF;
     font-weight: 700;
     margin: 0;
     padding: 1em;
-}
-
-#cabecera h1 {
+    background-image: url('https://www.example.com/logo-retro.png'); /* imagen o logo retro */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  #cabecera h1 {
     font-size: 3em;
     letter-spacing: 0.2em;
     margin-bottom: 0.5em;
-}
-
-#cabecera p {
+  }
+  
+  #cabecera p {
     font-size: 1.2em;
     letter-spacing: 0.1em;
-}
-
-#container {
+  }
+  
+  #container {
     width: 70%;
     padding: 0;
     text-align: left;
     border: 1px solid #1A1A1A;
     margin: 0 auto;
-}
-
-#container h2 {
+    background-image: url('https://www.example.com/papel-retro.png'); /* patrón de papel antiguo */
+  }
+  
+  #container h2 {
     font-size: 2em;
     font-weight: 400;
     margin: 1em 0;
-}
-
-#post {
+    color: #F7DC6F; /* amarillo retro */
+  }
+  
+  #post {
     padding: 1em;
-}
+    background: #FFF; /* fondo blanco para resaltar el contenido */
+    color: #1A1A1A; /* texto en tono oscuro para mayor contraste */
+  }
+  
