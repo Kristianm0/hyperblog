@@ -1,6 +1,24 @@
-body 
-{
-    color: deeppink;
+body {
+    color: #0516aa;
     text-align: center;
-    font-family: "Ariel";
-}
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    }
+    
+    #container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #620000;
+    margin: 0 auto;
+    }
+    
+    #container h1 {
+    font-size: 20px;
+    }
+    
+    
+    
+    
