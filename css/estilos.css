@@ -1,5 +1,5 @@
 body {
-    color: #450000;
+    color: #f62626;
     text-align: center;
     font-family: 'VT323', serif;
     font-size: 16px;
@@ -10,7 +10,7 @@ body {
   
   #cabecera {
     background: #1A1A1A; /* tono oscuro */
-    color: #FFF;
+    color: #7cc408ba;
     font-weight: 700;
     margin: 0;
     padding: 1em;
