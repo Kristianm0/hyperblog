@@ -18,3 +18,5 @@ Se espera que al final del proyecto, se haya creado una página web completa y f
 
 --------------------------------------------------------------------------------------
 **¡Y eso es todo!** Con esta descripción en formato markdown, se pueden detallar los aspectos principales de un proyecto para practicar las habilidades de Git y GitHub en la creación de una página web utilizando HTML y CSS.
+
+Proyecto hecho por: Kristianm.com 
